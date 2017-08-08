@@ -114,7 +114,7 @@ switch (ENVIRONMENT)
  *
  * NO TRAILING SLASH!
  */
-	$application_folder = 'idol_api';
+	$application_folder = 'API';
 
 /*
  *---------------------------------------------------------------
